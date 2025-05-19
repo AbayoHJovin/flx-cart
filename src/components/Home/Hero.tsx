@@ -22,7 +22,7 @@ const Hero = () => {
             
             <AnimatedSection animation="slide-in-bottom" delay={100}>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
-                Fresh <span className="gradient-text">Groceries</span> Delivered to Your Doorstep
+                Fresh <span className="gradient-text">Groceries</span> Delivered to Your Home
               </h1>
             </AnimatedSection>
             
